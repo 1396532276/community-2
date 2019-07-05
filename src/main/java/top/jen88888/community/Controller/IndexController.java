@@ -1,4 +1,4 @@
-package top.jen88888.community.hello;
+package top.jen88888.community.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
