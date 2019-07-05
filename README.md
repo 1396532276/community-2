@@ -5,12 +5,13 @@
 
 资源
 -------  
-<br>
-[Bootstrap](https://github.com/twbs/bootstrap)<br>
-<br><br>
-最新 Spring Boot 项目实战、讲师在线答疑
-[B站教学视频](https://www.bilibili.com/video/av50200264?p=2)
 
+[Bootstrap](https://github.com/twbs/bootstrap)
+
+<br>
+
+[最新 Spring Boot 项目实战、讲师在线答疑](https://www.bilibili.com/video/av50200264)   
+ 
 说明
 ------- 
 开发工具：IntelliJ IDEA 
