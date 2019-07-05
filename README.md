@@ -2,7 +2,6 @@
 码农社区
 ========
 
-
 资源
 -------  
 
@@ -11,10 +10,15 @@
 <br>
 
 [最新 Spring Boot 项目实战、讲师在线答疑](https://www.bilibili.com/video/av50200264)   
+
 <br>
+
 [OkHttp](https://square.github.io/okhttp/)
+
 <br>
+
 [Authorizing OAuth Apps](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)
+
  <br>
 说明
 ------- 
