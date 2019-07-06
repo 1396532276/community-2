@@ -13,6 +13,8 @@
 
 [Authorizing OAuth Apps](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)
 
+[阿里巴巴FastJson](https://mvnrepository.com/artifact/com.alibaba/fastjson)
+
 说明
 ------- 
 开发工具：IntelliJ IDEA 
