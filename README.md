@@ -15,6 +15,8 @@
 
 [阿里巴巴FastJson](https://mvnrepository.com/artifact/com.alibaba/fastjson)
 
+[jquery](https://www.runoob.com/jquery/jquery-tutorial.html)
+
 说明
 ------- 
 开发工具：IntelliJ IDEA 
